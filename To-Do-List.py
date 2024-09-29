@@ -1,4 +1,4 @@
-# Define a global list to hold tasks
+#Define a global list to hold tasks
 tasks = []
 
 def add_task(task_name):
